@@ -1,0 +1,45 @@
+html {
+    background-color: grey;
+    color: #128;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 0px 350px;
+    
+  }
+  h1{
+    font-size: 35px;
+    margin: 0px auto;
+    width: 550px;
+    padding: 10px 0; 
+    text-shadow: 5px 3px 1px black;
+  }
+  img {
+    display: block;
+    width: 350px;
+    padding: 0.1px;
+    border: 2px  solid black;
+    margin: 0px auto 15px;
+  }
+  body {
+    color: #128;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  p {
+    width: 1000px;
+    padding: 10px 10px 10px 10px;
+    border: 2px  solid black;
+    margin: 0px auto;
+  }
+  ul {
+    width: 1000px;
+    padding: 10px 10px 10px 17px;
+    border: 2px  solid black;
+    margin: 10px auto; 
+  }
+  button {
+      display: block;
+      margin: 0px auto;
+  }
